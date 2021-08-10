@@ -1,1 +1,0 @@
-Hello ALX. This is the first readme 
